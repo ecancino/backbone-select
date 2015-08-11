@@ -1,7 +1,7 @@
 {
-  "name": "gulp-boilerplate",
+  "name": "backbone-select",
   "version": "1.0.0",
-  "description": "Gulp Boilerplate",
+  "description": "Backbone Select Example",
   "repository": {
     "type": "git",
     "url": "https://github.com/treeskelt/gulp-boilerplate"
@@ -12,7 +12,9 @@
   "author": "Eduardo Cancino",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "~3.3.4"
+    "backbone": "^1.2.1",
+    "bootstrap": "~3.3.4",
+    "jquery": "^2.1.4"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
